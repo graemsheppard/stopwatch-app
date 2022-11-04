@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffffff</color>
+    <color name="secondary">#cccccc</color>
+    <color name="black">#000000</color>
+    <color name="success">#7BFF7B</color>
+    <color name="warning">#FFDB59</color>
+    <color name="danger">#FF7171</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezones">
+        <item>Newfoundland</item>
+        <item>Atlantic</item>
+        <item>Eastern</item>
+        <item>Central</item>
+        <item>Mountain</item>
+        <item>Pacific</item>
+    </string-array>
+</resources>
